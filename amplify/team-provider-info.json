@@ -10,6 +10,11 @@
       "StackName": "amplify-airecipegenerator-dev-68ce6",
       "StackId": "arn:aws:cloudformation:us-east-1:445434394724:stack/amplify-airecipegenerator-dev-68ce6/89710700-3a86-11f0-b96a-0eac8c9ba6ed",
       "AmplifyAppId": "dgoezdht7bams"
+    },
+    "categories": {
+      "auth": {
+        "airecipegenerator4d108f4d": {}
+      }
     }
   }
 }
